@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Calc Application</string>
+    <string name="sum_text">+</string>
+    <string name="sub_text">-</string>
+    <string name="mult_text">*</string>
+    <string name="div_text">/</string>
+</resources>
